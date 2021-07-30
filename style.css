@@ -14,7 +14,8 @@ body{
     animation: slide 20s infinite;
 }
 
-//add animation 😁
+/*add animation 😁*/
+
 @keyframes slide{
     25%{
         background: url(Images/2.jpg);
